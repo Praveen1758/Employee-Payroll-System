@@ -92,11 +92,17 @@ Net Salary: ₹50000
 Through this project, I gained hands-on experience with:
 
 🔹 Python programming fundamentals
+
 🔹 Object-Oriented Programming concepts
+
 🔹 Code reusability using inheritance
+
 🔹 Data security through encapsulation
+
 🔹 Runtime polymorphism
+
 🔹 Building backend applications
+
 🔹 Writing clean and maintainable code
 
 ## 🔮 Future Enhancements
